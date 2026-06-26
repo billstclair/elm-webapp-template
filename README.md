@@ -2,9 +2,9 @@ elm-webapp-template
 
 Stuff that is common to all webapps in Elm. Start from here.
 
-$ cp -R .../elm-webapp-template .../your-webapp
-$ cd .../your-webapp
-$ rm -rf elm-stuff/*
+    $ cp -R .../elm-webapp-template .../your-webapp
+    $ cd .../your-webapp
+    $ rm -rf elm-stuff/*
 
 Update site/.sshdir to point to your web hosting directory.
 
